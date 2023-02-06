@@ -3,7 +3,8 @@
 ## *City Graph*
 ### A simple Python programme that builds a graph representation of cities and their connections.
 
-Input
+### **Input**
+
 The programme takes two lists as inputs:
 
 city_nodes: a list of city names as nodes
