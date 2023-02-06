@@ -1,7 +1,7 @@
 # Graphs
 
 ## *City Graph*
-### A simple Python programme that builds a graph representation of cities and their connections.
+A simple Python programme that builds a graph representation of cities and their connections.
 
 ### **Input**
 
